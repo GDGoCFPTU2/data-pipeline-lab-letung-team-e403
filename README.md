@@ -33,3 +33,8 @@ Your team must divide into the following roles. Each role has specific files to 
 2. Read the `TODO` comments assigned to your specific role.
 3. Collaborate with your team. **The Builder cannot finish their job until the Architect finishes the Schema.**
 4. Run `python orchestrator.py` to test your pipeline.
+
+
+Tên: LÊ VĂN TÙNG
+email: 26ai.tunglv@vinuni.edu.vn
+github username: FWD-LeTung
